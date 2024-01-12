@@ -3,7 +3,7 @@ Angular frontend service for retail shop application
 
 
 # project setup
-`git clone https://github.com/ireshamadhu1995/retail-management-frontend.git`
+`git clone https://github.com/ireshamadhu1995/retail-frontend.git`
 
 `npm install`
 
